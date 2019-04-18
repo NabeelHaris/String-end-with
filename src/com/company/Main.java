@@ -7,6 +7,7 @@ public class Main {
         String endString = "a";
 
         CheckStringEndValues checkStringEndValues = new CheckStringEndValues();
+        
         System.out.println(checkStringEndValues.checkStringEndWithSecondString(inputString, endString));
     }
 }
